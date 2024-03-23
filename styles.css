@@ -1,0 +1,89 @@
+body {
+	margin: 0px;
+	background-color: #eee;
+}
+
+#header-img {
+	width: 150px;
+	height: auto;
+	max-width: 50vw;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	justify-content: flex-start;
+}
+
+#nav-bar li {
+	list-style-type: none;
+	display: inline;
+	float: left;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: white;
+	font-family: Arial, san-serif;
+	padding: 20px;
+}
+
+#header {
+	background-color: #333;
+	width: 100%;
+	position: fixed;
+	display: flex;
+}
+
+@media (min-width: 700px) {
+	#nav-bar {
+		font-size: 20px;
+		width: 100%;
+		height: 10vh;
+		top: 0px;
+		left: 0px;
+		position: fixed;
+		display: flex;
+		justify-content: flex-end;
+	}
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+#form {
+	text-align: center;
+}
+
+#email {
+	font-size: 1rem;
+}
+
+#submit {
+	background-color: #f1c408;
+	border: none;
+	font-size: 1.5rem;
+	font-family: Arial, sans-serif;
+}
+
+h2 {
+	text-align: center;
+}
+
+#video {
+	display: flex;
+	margin: auto;
+}
+
+#get-started, #benefits, #how-it-works {
+	padding-top: 50px;
+	margin-bottom: -50px;
+}
+
+footer {
+	background-color: #ddd;
+	text-align: right;
+	color: grey;
+	font-family: Arial, sans-serif;
+	padding: 1px;
+	margin-top: 70px;
+}
