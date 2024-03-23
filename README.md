@@ -1,5 +1,4 @@
 # product_landing_page_fcc
-
 Personal Portfolio Page | CSS, HTML | Responsive Web Design (CSS, HTML) | 04/05 | freeCodeCamp | 2024
 
 Objective: Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks. Do not copy this demo project.
